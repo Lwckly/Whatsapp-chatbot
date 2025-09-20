@@ -8,8 +8,8 @@ import asyncio
 
 load_dotenv()
 ACCESS_TOKEN = str(os.getenv("EAAXD1z1dIBsBO42KTWnzbjwucaicLZCHzXZBaO9obiJB89MP5AVUXLZAXb3DhUKSUwqM1FeNtzc7wZBsIicZBRBBiFeJ3b0DcBeJhfZASk6fUznpQIjX2Wl2fDvawtUZCD2x1ZBJymowlf13AFYWmpHqjLYLIOYLMsajPlyaSiPfujai1HITXMZBLslPUXhS4Of91PGfwugQDTe6aOd9awkg39nRsq35S"))
-RECIPIENT_WAID = os.getenv("+11963402343")
-PHONE_NUMBER_ID = os.getenv("614406575084300")
+RECIPIENT_WAID = os.getenv("+xxxxx")
+PHONE_NUMBER_ID = os.getenv("xxxxx")
 VERSION = os.getenv("22")
 
 APP_ID = os.getenv("APP_ID")
